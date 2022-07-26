@@ -34,7 +34,9 @@ public class Dev {
     private Set<Conteudo> conteudosConcluidos=new LinkedHashSet<>();
 
     public  void inscreverBootcamp(Bootcamp bootcamp)
-    {}
+    {
+
+    }
 
     public  void progredir(){}
 
