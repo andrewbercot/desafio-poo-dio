@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c87c316c-ef65-4d6e-8446-31c6d0db5a09" name="Changes" comment="Adicionada a classe conteúdo e feito a herança para as classes Mentoria e Curso">
+    <list default="true" id="c87c316c-ef65-4d6e-8446-31c6d0db5a09" name="Changes" comment="Adicionada classes Bootcamp e Dev">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafio-dio-poo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafio-dio-poo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/desafio-dio-poo/br/com/dio/desafio/dominio/Dev.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafio-dio-poo/br/com/dio/desafio/dominio/Dev.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658798987108</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Adicionada classes Bootcamp e Dev">
+      <created>1658799745475</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658799745475</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Adicionada classes Bootcamp e Dev">
+      <created>1658799789846</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658799789846</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,7 +137,8 @@
     <MESSAGE value="First Commit;" />
     <MESSAGE value="Add README.md" />
     <MESSAGE value="Adicionada a classe conteúdo e feito a herança para as classes Mentoria e Curso" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionada a classe conteúdo e feito a herança para as classes Mentoria e Curso" />
+    <MESSAGE value="Adicionada classes Bootcamp e Dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionada classes Bootcamp e Dev" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/desafio_dio_poo$Main.ic" NAME="Main Coverage Results" MODIFIED="1658758826229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
